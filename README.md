@@ -11,7 +11,3 @@ This folder contains code listings for all five project units. The Python listin
 - `unit_4_taiwan_covid_hmm_colab.ipynb` — saved Unit 4 Colab notebook.
 - `unit_5_mpesa_inflow_ensemble_regression.py` — recorded M-PESA inflow regression code listing.
 - `unit_5_mpesa_real_data_colab.ipynb` — saved Unit 5 real-data Colab notebook.
-
-## Notes
-
-The original notebook files for Units 1–3 were not present in the project workspace, so those units are provided from the code listings saved in the final report. The report’s code listings are preserved as supplied; they may require the matching data files, Colab environment, and dependencies before they can run. The Unit 4 and Unit 5 notebooks are included as saved, complete notebook files.
